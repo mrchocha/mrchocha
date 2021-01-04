@@ -1,5 +1,4 @@
-### Hi there 👋
-I am Rahul Chocha 
+### Hi there 👋, I am Rahul Chocha. 
 
 
 <!--Here are some ideas to get you started:
