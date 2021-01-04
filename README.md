@@ -7,7 +7,7 @@
 - Programmer.
 - Creative design explorer.
 
-### Skills ⚡
+### Skills 🚀
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/c.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/c++.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/python.png)
@@ -21,12 +21,12 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/react.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/node.png)
 
-### My Website
+### My Website 😃
 <a href="https://mrchocha.herokuapp.com/">
   <img src="https://github.com/mrchocha/mrchocha/blob/main/media/R.png"  width="48" height="48" >
 </a>
 
-### contact me 😃
+### contact me 🙋
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)](mailto:rahul.c@ahduni.edu.in)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/whatsapp.png)](https://api.whatsapp.com/send?phone=917096642232)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/linkedin.png)](https://www.linkedin.com/in/rahul-chocha-14b391179/)
