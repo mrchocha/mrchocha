@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rahul 
 
-![not found](https://github.com/mrchocha/mrchocha/blob/main/screenshots/example2.png)
+![not found](https://github.com/mrchocha/mrchocha/blob/main/example2.png)
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
