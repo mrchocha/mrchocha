@@ -21,6 +21,10 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/react.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/node.png)
 
+### My Website
+<img src="https://github.com/mrchocha/mrchocha/blob/main/media/R.png"  width="48" height="48" >
+
+
 ### contact me 😃
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/whatsapp.png)
