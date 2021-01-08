@@ -1,4 +1,4 @@
-### Hi there 👋, I am Rahul 
+### Hi there 👋, I am Rahul, 
 
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/example2.png)
 
@@ -26,7 +26,7 @@
   <img src="https://github.com/mrchocha/mrchocha/blob/main/media/R.png"  width="48" height="48" >
 </a>
 
-### contact me 🙋
+### Contact Me 🙋
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)](mailto:rahul.c@ahduni.edu.in)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/whatsapp.png)](https://api.whatsapp.com/send?phone=917096642232)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/linkedin.png)](https://www.linkedin.com/in/rahul-chocha-14b391179/)
