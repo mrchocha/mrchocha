@@ -3,8 +3,8 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/example2.png)
 
 ### About me 🌱 
-- Web developmenr 
-- competitive coder.
+- Web developer. 
+- Competitive coder.
 - Programmer.
 - Creative design explorer.
 
