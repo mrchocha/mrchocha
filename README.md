@@ -22,12 +22,12 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/react.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/node.png)
 
-### My Website 😃
+### Website 😃
 <a href="https://mrchocha.herokuapp.com/">
   <img src="https://github.com/mrchocha/mrchocha/blob/main/media/R.png"  width="48" height="48" >
 </a>
 
-### My Resume 📝
+### Resume 📝
 - Download from [here](https://drive.google.com/file/d/1ViazsoIDk6kDnX5aSUeCYOZTXD3eyZCm/view?usp=sharing)
 
 ### Contact Me 🙋
