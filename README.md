@@ -28,7 +28,7 @@
 </a>
 
 ### My Resume 📝
-- Download from ![here](https://drive.google.com/file/d/1ViazsoIDk6kDnX5aSUeCYOZTXD3eyZCm/view?usp=sharing)
+- Download from [here](https://drive.google.com/file/d/1ViazsoIDk6kDnX5aSUeCYOZTXD3eyZCm/view?usp=sharing)
 
 ### Contact Me 🙋
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)](mailto:rahul.c@ahduni.edu.in)
