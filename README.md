@@ -27,6 +27,9 @@
   <img src="https://github.com/mrchocha/mrchocha/blob/main/media/R.png"  width="48" height="48" >
 </a>
 
+### My Resume 📝
+- Download from ![here](https://drive.google.com/file/d/1ViazsoIDk6kDnX5aSUeCYOZTXD3eyZCm/view?usp=sharing)
+
 ### Contact Me 🙋
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)](mailto:rahul.c@ahduni.edu.in)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/whatsapp.png)](https://api.whatsapp.com/send?phone=917096642232)
