@@ -30,7 +30,7 @@
 ### Resume 📝
 - Download from [here](https://drive.google.com/file/d/1ViazsoIDk6kDnX5aSUeCYOZTXD3eyZCm/view?usp=sharing)
 
-### Contact Me 🙋
+### Contact Me 👦
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)](mailto:rahul.c@ahduni.edu.in)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/whatsapp.png)](https://api.whatsapp.com/send?phone=917096642232)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/linkedin.png)](https://www.linkedin.com/in/rahul-chocha-14b391179/)
