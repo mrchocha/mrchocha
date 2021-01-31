@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rahul, 
 
-![not found](https://github.com/mrchocha/mrchocha/blob/main/media/example2.png)
+![not found](https://github.com/mrchocha/mrchocha/blob/main/media/rahul_chocha.png)
 
 ### About me 🌱 
 - Web developer. 
