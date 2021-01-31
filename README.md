@@ -22,13 +22,13 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/react.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/node.png)
 
+### Resume 📝
+- Download from [here](https://drive.google.com/file/d/1ViazsoIDk6kDnX5aSUeCYOZTXD3eyZCm/view?usp=sharing)
+
 ### Website 😃
 <a href="https://mrchocha.github.io/portfolio/">
   <img src="https://github.com/mrchocha/mrchocha/blob/main/media/R.png"  width="48" height="48" >
 </a>
-
-### Resume 📝
-- Download from [here](https://drive.google.com/file/d/1ViazsoIDk6kDnX5aSUeCYOZTXD3eyZCm/view?usp=sharing)
 
 ### Contact Me 🙋‍♂️
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)](mailto:rahul.c@ahduni.edu.in)
