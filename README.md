@@ -5,7 +5,6 @@
 ### About me 🌱 
 - Web developer. 
 - Competitive coder.
-- Programmer.
 - Creative design explorer.
 
 ### Resume 📝
