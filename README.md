@@ -3,8 +3,8 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/rahul_chocha.png)
 
 ### About me 🌱 
-- Web developer. 
-- Competitive coder.
+- Software Engineer. 
+- Learning about software architecture and distributed systems.
 - Creative design explorer.
 
 ### Resume 📝
