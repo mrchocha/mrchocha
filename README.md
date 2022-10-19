@@ -30,7 +30,7 @@
 </a>
 
 ### Contact Me 🙋‍♂️
-[![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)](mailto:rahul.c@ahduni.edu.in)
+[![not found](https://github.com/mrchocha/mrchocha/blob/main/media/gmail.png)](mailto:rahulahir4530@gmail.com)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/whatsapp.png)](https://api.whatsapp.com/send?phone=917096642232)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/linkedin.png)](https://www.linkedin.com/in/rahul-chocha-14b391179/)
 [![not found](https://github.com/mrchocha/mrchocha/blob/main/media/insta.png)](https://www.instagram.com/rahul_chocha4530/)
