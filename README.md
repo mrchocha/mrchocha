@@ -25,7 +25,7 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/node.png)
 
 ### Website 😃
-<a href="https://mrchocha.me/">
+<a href="https://mrchocha.github.io/me/">
   <img src="https://github.com/mrchocha/mrchocha/blob/main/media/R.png"  width="48" height="48" >
 </a>
 
