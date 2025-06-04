@@ -3,12 +3,21 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/rahul_chocha.png)
 
 ### About me 🌱 
-- Software Engineer. 
-- Learning about software architecture and distributed systems.
-- Creative design explorer.
+Software Engineer II at Lyearn, passionate about building scalable backend systems and data-driven solutions. Experienced in developing analytics services, job processing systems, and microservice architectures using Golang, Nodejs, FastAPI, PostgreSQL, Kafka, Kubernetes, and Elasticsearch.
+
+### 📌 Notable contributions:
+- ✅ Built a knowledge-based chatbot leveraging OpenAI GPT-4o for document interactions.
+- ✅ Developed a custom analytics engine with a query language to extract insights from Elasticsearch.
+- ✅ Led the migration of 5+ microservices to a Go-based monorepo with integrated monitoring.
+- ✅ Enhanced observability with memory profiling tools, eliminating memory leaks and optimizing performance.
+
+### 💡 Open Source: 
+* Tegon.ai (YC S’23), Memphis.dev (CNCF), Go-functional, mgod, dice-DB and more.
+
+Let’s connect and talk about distributed systems, backend scalability, and open-source collaborations!
 
 ### Resume 📝
-- Download from [here](https://drive.google.com/file/d/1ViazsoIDk6kDnX5aSUeCYOZTXD3eyZCm/view?usp=sharing)
+- Download from [here](https://drive.google.com/file/d/1hSBEWKD6dK7Z3KuLbytLqth65kOK8JPs/view?usp=sharing)
 
 ### Skills 🚀
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/c.png)
