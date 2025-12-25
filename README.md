@@ -20,6 +20,7 @@ Let’s connect and talk about distributed systems, backend scalability, and ope
 - Download from [here](https://drive.google.com/file/d/1hSBEWKD6dK7Z3KuLbytLqth65kOK8JPs/view?usp=sharing)
 
 ### Skills 🚀
+![not found](https://github.com/mrchocha/mrchocha/blob/main/media/rust.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/c.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/c++.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/python.png)
