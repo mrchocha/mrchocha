@@ -3,7 +3,7 @@
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/rahul_chocha.png)
 
 ### About me 🌱 
-Software Engineer II at Lyearn, passionate about building scalable backend systems and data-driven solutions. Experienced in developing analytics services, job processing systems, and microservice architectures using Golang, Nodejs, FastAPI, PostgreSQL, Kafka, Kubernetes, and Elasticsearch.
+Systems Engineer at Cloudflare, passionate about building scalable backend systems and data-driven solutions. Experienced in developing analytics services, job processing systems, and microservice architectures using Rust, Golang, Nodejs, FastAPI, PostgreSQL, Kafka, Kubernetes, and Elasticsearch.
 
 ### 📌 Notable contributions:
 - ✅ Built a knowledge-based chatbot leveraging OpenAI GPT-4o for document interactions.
@@ -12,7 +12,7 @@ Software Engineer II at Lyearn, passionate about building scalable backend syste
 - ✅ Enhanced observability with memory profiling tools, eliminating memory leaks and optimizing performance.
 
 ### 💡 Open Source: 
-* Tegon.ai (YC S’23), Memphis.dev (CNCF), Go-functional, mgod, dice-DB and more.
+* Holmesgpt (CNCF),  Tegon.ai (YC S’23), Memphis.dev (CNCF), Go-functional, mgod, dice-DB and more.
 
 Let’s connect and talk about distributed systems, backend scalability, and open-source collaborations!
 
