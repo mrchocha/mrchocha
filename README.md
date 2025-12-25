@@ -21,6 +21,7 @@ Let’s connect and talk about distributed systems, backend scalability, and ope
 
 ### Skills 🚀
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/rust.png)
+![not found](https://github.com/mrchocha/mrchocha/blob/main/media/golang.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/c.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/c++.png)
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/python.png)
