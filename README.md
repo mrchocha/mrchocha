@@ -1,22 +1,33 @@
-### Hi there 👋, I am Rahul, 
-
+# Hi, I'm Rahul 👋
 ![not found](https://github.com/mrchocha/mrchocha/blob/main/media/rahul_chocha.png)
 
-### About me 🌱 
-I’m a Systems Engineer who genuinely loves diving into the weeds of Go, Kubernetes, and distributed architecture. From scaling high-performance Zero Trust platforms at Cloudflare to shipping production-grade AI pipelines and high-throughput microservices at fast-growing startups, I build backend systems designed to survive massive scale.
+I'm a systems engineer @ Cloudflare, interested in **backend systems, distributed systems, and infrastructure**.
 
-Building system that processes 2M+ records per second ⚡, Automating global edge data centers provisioning
- 🌐,  Crushing API response times 🏎️. Just another day at the keyboard. 
+I enjoy understanding how systems work under the hood and building things to learn — especially around storage, networking, concurrency, and distributed systems.
 
-### 🛠️ What I Bring to the Table:
-* 🌍 Global Scale & Security: Designing Zero Trust risk evaluation engines, high-performance gateway policy services, and automated control planes for bare-metal edge infrastructure.  
-* 🤖 AI & Data Pipelines: Building production RAG pipelines using FastAPI, Qdrant vector stores, and OpenAI GPT models—wrapped in high-speed Go logic.  
-* 📈 Performance Engineering: Hunting down memory leaks using pprof, crafting custom query languages over Elasticsearch, and optimizing microservices from the ground up.  
-* ⚙️ Dev Efficiency & Automation: Building custom internal MCP servers, rolling out robust mono-repos, and automating workflows to save teams hours of manual effort.  
+### What I'm working on  🌱
 
-### 💚 Open Source & Tinkering
-When I’m not writing production code, you’ll usually find me contributing to CNCF and YC startup ecosystems like HolmesGPT, Memphis.dev, and Tegon.ai.  
-I also love raw, low-level engineering—like building my own custom multi-threaded audio streaming protocol in C using UDP sockets.  
+* **[LSM-Tree](https://github.com/mrchocha/lsm-tree)** — Building a key-value store in Rust based on the LSM-tree design. Currently working on WAL, MemTables, SSTables, Bloom filters, and compaction.
+* **[R-Raft](https://github.com/mrchocha/r-raft)** — A Raft implementation in C++ with leader election, log replication, heartbeats, and WAL persistence.
+* Contributing to and exploring **open-source infrastructure and distributed-systems projects**.
+
+### Things I work with 💚
+
+* **Languages:** Go, Rust, C++, Python
+* **Infrastructure:** Kubernetes, Docker, Linux
+* **Backend:** Distributed systems, databases, APIs, messaging systems
+
+I'm particularly interested in how databases, storage engines, and distributed systems are built and how they behave under load.
+
+### Open Source 🌍
+I like contributing to open source and reading production code to understand how real systems are designed.
+
+Some projects I've worked with:
+* [TegonAI](https://github.com/tegonhq/tegon)
+* [Memphis](https://github.com/memphisdev/memphis)
+* [go-functional](https://github.com/mrchocha/go-functional)
+* [DiceDB](https://github.com/dicedb/dice)
+* [HolmesGPT](https://github.com/robusta-dev/holmesgpt)
 
 ### Resume 📝
 - Download from [here](https://drive.google.com/file/d/1hSBEWKD6dK7Z3KuLbytLqth65kOK8JPs/view?usp=sharing)
