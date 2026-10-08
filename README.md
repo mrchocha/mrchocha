@@ -7,7 +7,7 @@ I enjoy understanding how systems work under the hood and building things to lea
 
 ### What I'm working on  🌱
 
-* **[LSM-Tree](https://github.com/mrchocha/lsm-tree)** — Building a key-value store in Rust based on the LSM-tree design. Currently working on WAL, MemTables, SSTables, Bloom filters, and compaction.
+* **[Tecton](https://github.com/mrchocha/tecton)** — Building LSM-tree based storage engine written in Rust. Currently working on WAL, MemTables, SSTables, Bloom filters, and compaction.
 * **[R-Raft](https://github.com/mrchocha/r-raft)** — A Raft implementation in C++ with leader election, log replication, heartbeats, and WAL persistence.
 * Contributing to and exploring **open-source infrastructure and distributed-systems projects**.
 
